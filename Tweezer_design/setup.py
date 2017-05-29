@@ -13,6 +13,7 @@ setup(name='Acoust_Tweezers_Anisotropic',
       author='Antoine Riaud, Jean-Louis Thomas, Michael Baudoin, Olivier Bou Matar',
       author_email='antoine.riaud@gmail.com',
       packages=['Tweezer_design'],
-      url = 'https://github.com/peterldowns/mypackage', # use the URL to the github repo
+      url = 'https://github.com/AntoineRiaud/Tweezer_design/', # use the URL to the github repo
+      download_url = 'https://github.com/AntoineRiaud/Tweezer_design.git'
       data_files=[('',['Tweezer_design/LiNbO3.mat','Tweezer_design/reticule.svg','Tweezer_design/mirror.svg'])],
      )
